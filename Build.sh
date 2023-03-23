@@ -1,10 +1,6 @@
 #!/bin/bash
 
 #Author: Cindy Chheng
-#Course: CPSC223n
-#Semester: Fall 2021
-#Assignment: 1
-#Due: September 4, 2021.
 
 #This is a bash shell script to be used for compiling, linking, and executing the C sharp files of this assignment.
 #Execute this file by navigating the terminal window to the folder where this file resides, and then enter the command: ./build.sh
