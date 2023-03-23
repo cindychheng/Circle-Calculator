@@ -3,8 +3,6 @@
 
 //Program name: Circle Calculator
 //Programming language: C Sharp
-//Date development of program began: 2021-08-26
-//Date of last update: 2021-09-02
 
 //Purpose:  This program will compute a circle's area and surface area using the radius inputted by the user.
 
@@ -12,7 +10,6 @@
 
 //This file's name: CircleInterface.cs
 //This file purpose: This file builds the interface.
-//Date last modified: 2021-09-02
 
 //To compile CircleInterface.cs:
 //     mcs -target:library -r:System.Drawing.dll -r:System.Windows.Forms.dll -out:CircleInterface.dll CircleInterface.cs
